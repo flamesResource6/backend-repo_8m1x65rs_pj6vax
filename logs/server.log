@@ -1,35 +1,35 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [164] using StatReload
-INFO:     Started server process [166]
+INFO:     Started reloader process [220] using StatReload
+INFO:     Started server process [222]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:38122 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:38070 - "GET /api/navigation HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38076 - "GET /api/hero HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38106 - "GET /api/featured-rail HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38108 - "GET /api/campaign HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38076 - "GET /api/navigation HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38070 - "GET /api/shop-the-look HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38108 - "GET /api/featured-rail HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38106 - "GET /api/hero HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38070 - "GET /api/campaign HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38076 - "GET /api/shop-the-look HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38090 - "GET /api/config/promo HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38102 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38090 - "GET /api/config/promo HTTP/1.1" 200 OK
-INFO:     172.20.0.1:38102 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42558 - "GET /api/navigation HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42566 - "GET /api/config/promo HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42574 - "GET /api/hero HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42578 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42558 - "GET /api/config/promo HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42566 - "GET /api/shop-the-look HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42574 - "GET /api/navigation HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42578 - "GET /api/hero HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42558 - "GET /api/shop-the-look HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42566 - "GET /api/collections HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42604 - "GET /api/campaign HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42592 - "GET /api/featured-rail HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42604 - "GET /api/campaign HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42592 - "GET /api/featured-rail HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35546 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:35554 - "GET /api/shop-the-look HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35602 - "GET /api/campaign HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35568 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35598 - "GET /api/featured-rail HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35554 - "GET /api/config/promo HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35568 - "GET /api/shop-the-look HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35598 - "GET /api/campaign HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35602 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35554 - "GET /api/featured-rail HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35582 - "GET /api/navigation HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35590 - "GET /api/hero HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35568 - "GET /api/config/promo HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35582 - "GET /api/navigation HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35590 - "GET /api/hero HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60218 - "GET /api/config/promo HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60226 - "GET /api/hero HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60230 - "GET /api/navigation HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60242 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60218 - "GET /api/shop-the-look HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60226 - "GET /api/navigation HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60230 - "GET /api/config/promo HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60242 - "GET /api/hero HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60230 - "GET /api/shop-the-look HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60218 - "GET /api/collections HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60248 - "GET /api/featured-rail HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60264 - "GET /api/campaign HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60248 - "GET /api/featured-rail HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60264 - "GET /api/campaign HTTP/1.1" 200 OK
